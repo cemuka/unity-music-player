@@ -63,9 +63,8 @@ public class MusicPlayer : MonoBehaviour
             _notification.SlideIn();
             _notificationActive = true;
         }
-        NotificationTimer();
-
         
+        NotificationTimer();
     }
 
     private void PreviousTrack()

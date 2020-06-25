@@ -153,7 +153,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   notificationParent: {fileID: 302932524}
   audioSource: {fileID: 145839089}
-  notificationTime: 5
+  notificationDuration: 5
 --- !u!82 &145839089
 AudioSource:
   m_ObjectHideFlags: 0
